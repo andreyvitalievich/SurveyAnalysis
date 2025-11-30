@@ -95,7 +95,7 @@ SurveyAnalysis/
 ## 🚀 How to Run
 
 1. Clone the repository  
-git clone https://github.com/your-name/SurveyAnalysis.git  
+git clone https://github.com/andreyvitalievich/SurveyAnalysis.git 
 
 2. Move to the project folder  
 cd SurveyAnalysis  
