@@ -1,0 +1,51 @@
+age,gender,education,country,usage_frequency,usage_duration,satisfaction_1to5,favorite_brand,improvement_suggestion
+48,Other,High School,UK,A few times a week,6–12 months,1,Unknown,Faster performance
+55,Other,High School,Spain,Every day,Less than 1 month,2,Brand A,Improved stability
+23,Male,High School,Spain,A few times a month,6–12 months,1,Brand B,Faster performance
+41,Prefer not to say,Other,Canada,Every day,More than 2 years,3,None,Better UI
+28,Female,Other,UK,A few times a month,6–12 months,3,None,Lower price
+41,Male,High School,Spain,Every day,1–2 years,3,Brand D,More features
+60,Male,High School,UK,Once a week,1–2 years,5,Brand B,Better UI
+32,Other,Bachelor,UK,Never,1–2 years,4,Brand D,More features
+33,Female,PhD,Ukraine,A few times a month,1–6 months,5,Unknown,No improvements needed
+46,Male,Bachelor,USA,Never,1–2 years,2,Unknown,No improvements needed
+21,Other,High School,Canada,Never,Less than 1 month,1,Brand C,More features
+34,Female,Master,Germany,Every day,More than 2 years,3,Brand C,Better UI
+38,Female,Master,Australia,Once a week,1–6 months,1,Brand C,Improved stability
+49,Prefer not to say,PhD,USA,Every day,1–2 years,2,None,Lower price
+46,Male,Master,UK,A few times a month,6–12 months,5,None,Faster performance
+58,Other,Other,Germany,Every day,6–12 months,1,Brand D,More features
+21,Other,Master,Canada,Never,More than 2 years,1,Brand C,Better customer support
+25,Female,PhD,Canada,Never,1–6 months,2,Brand D,More features
+25,Male,High School,Ukraine,A few times a month,Less than 1 month,2,None,Lower price
+45,Prefer not to say,PhD,Poland,Rarely,1–6 months,3,Brand C,Better customer support
+33,Female,PhD,Poland,A few times a month,1–2 years,4,Brand A,No improvements needed
+42,Male,High School,USA,A few times a month,6–12 months,2,Brand C,Lower price
+48,Other,Bachelor,USA,A few times a month,More than 2 years,3,None,Lower price
+24,Prefer not to say,High School,Spain,Once a week,1–6 months,2,Unknown,Lower price
+37,Other,Master,Poland,Every day,1–2 years,1,Brand C,Faster performance
+60,Prefer not to say,Master,Australia,A few times a month,6–12 months,5,Unknown,Better UI
+43,Other,Master,Australia,Never,1–6 months,3,Unknown,More features
+32,Prefer not to say,High School,Germany,Every day,Less than 1 month,5,Brand B,No improvements needed
+42,Other,Other,Germany,Every day,1–6 months,5,Unknown,No improvements needed
+43,Other,PhD,Ukraine,Every day,1–2 years,2,Brand A,Better customer support
+26,Other,Other,USA,Once a week,Less than 1 month,5,Brand D,Faster performance
+25,Prefer not to say,PhD,Australia,Every day,1–2 years,1,Brand B,Better UI
+47,Male,Bachelor,Canada,Rarely,6–12 months,2,Brand C,Better UI
+53,Female,Master,Poland,Rarely,1–2 years,4,Brand A,Lower price
+47,Male,Bachelor,USA,A few times a week,1–2 years,3,None,More features
+37,Male,Other,UK,Never,1–6 months,2,Brand C,No improvements needed
+45,Other,PhD,Germany,A few times a month,1–6 months,5,Brand B,Better UI
+42,Male,PhD,UK,Rarely,1–6 months,1,Brand C,Better customer support
+18,Male,High School,UK,Once a week,More than 2 years,3,Brand C,Better customer support
+49,Other,PhD,USA,Rarely,1–2 years,3,None,Lower price
+53,Male,High School,Canada,Never,1–6 months,5,Brand D,More features
+30,Female,PhD,Germany,Every day,1–6 months,3,Brand D,Lower price
+56,Prefer not to say,PhD,Ukraine,Once a week,6–12 months,5,Brand B,Faster performance
+55,Other,Other,Canada,Never,Less than 1 month,4,Brand C,Improved stability
+59,Other,PhD,USA,Never,1–2 years,5,Brand A,More features
+56,Prefer not to say,Other,Australia,Never,More than 2 years,5,Brand C,Improved stability
+46,Other,High School,Ukraine,A few times a month,More than 2 years,1,Unknown,Better customer support
+22,Male,Master,USA,Once a week,More than 2 years,3,Brand B,Lower price
+21,Female,Bachelor,USA,Once a week,More than 2 years,4,Brand D,Faster performance
+53,Prefer not to say,Master,Spain,A few times a month,6–12 months,4,Brand B,No improvements needed
